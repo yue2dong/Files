@@ -1,9 +1,10 @@
-@ARTICLE{10246353,
+@article{yue2023model,
+  title={Model reference adaptive stabilizing control with application to leaderless consensus},
   author={Yue, Dongdong and Baldi, Simone and Cao, Jinde and De Schutter, Bart},
-  journal={IEEE Transactions on Automatic Control}, 
-  title={Model Reference Adaptive Stabilizing Control with Application to Leaderless Consensus}, 
+  journal={IEEE Transactions on Automatic Control},
+  volume={69},
+  number={3},
+  pages={2052--2059},
   year={2023},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/TAC.2023.3313642}}
+  publisher={IEEE}
+}
